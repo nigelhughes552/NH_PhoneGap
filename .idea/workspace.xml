@@ -2,278 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c189fa38-cd6f-410a-9573-2c3adea31563" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default-568h@2x~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default-Landscape@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default-Landscape~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default-Portrait@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default-Portrait~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default@2x~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/splash/Default~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-ExtraLight.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceCodePro-Semibold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-BlackIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-BoldIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-ExtraLight.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-ExtraLightIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-It.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-LightIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-Semibold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/font/SourceSansPro-SemiboldIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/project.xcworkspace/xcuserdata/hollyschinsky.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/project.xcworkspace/xcuserdata/joshdolitsky.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/beep.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/bg_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/breadcrumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/checkbox_checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/checkbox_checked_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/checkbox_unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/checkbox_unchecked_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/controls_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/controls_bg@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/controls_bg@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/controls_bg~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dark-combo-box-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dark-combo-box-bg2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dark-grips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dark-sprites2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dialog-zone-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/drop-down-triangle-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/drop-down-triangle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/icons/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/icons/icon-72@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/icons/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/icons/icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/light-combo-box-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/light-combo-box-bg2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/light-grips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/light-sprites2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/microphone-568h@2x~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/microphone@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/microphone@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/microphone~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pop-up-triangle-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pop-up-triangle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/record_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/record_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/record_button@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/record_button~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/recording_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/recording_bg@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/recording_bg@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/recording_bg~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search-bg2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/spinner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/spinner2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/stop_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/stop_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/stop_button@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/Capture.bundle/stop_button~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Classes/AppDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Classes/AppDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/0.9.6/CDV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/1.5.0/CDV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVAccelerometer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVAccelerometer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVAvailability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVBattery.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVBattery.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCamera.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCamera.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCapture.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCapture.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCommandDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCommandDelegateImpl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCommandDelegateImpl.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCommandQueue.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVCommandQueue.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVConfigParser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVConfigParser.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVConnection.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVContact.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVContact.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVContacts.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVContacts.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVDebug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVDevice.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVDevice.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVEcho.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVEcho.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVExif.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVFile.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVFile.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVFileTransfer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVFileTransfer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVGlobalization.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVGlobalization.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVInAppBrowser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVInAppBrowser.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVInvokedUrlCommand.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVInvokedUrlCommand.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVJSON.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVJSON.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVJpegHeaderWriter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVJpegHeaderWriter.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLocalStorage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLocalStorage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLocation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLocation.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVNotification.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVNotification.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVPlugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/0.9.6/CDVPlugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/1.5.0/CDVPlugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVPlugin.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/0.9.6/CDVPlugin.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVPluginResult.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVPluginResult.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVReachability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVReachability.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVScreenOrientationDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVSound.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVSound.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVSplashScreen.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVSplashScreen.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVTimer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVTimer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVURLProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVURLProtocol.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVUserAgentUtil.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVUserAgentUtil.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVWebViewDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVWebViewDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVWhitelist.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/CDVWhitelist.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.xcodeproj/xcuserdata/hollyschinsky.xcuserdatad/xcschemes/CordovaLib.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.xcodeproj/xcuserdata/joshdolitsky.xcuserdatad/xcschemes/CordovaLib.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/de.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/en.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/es.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Resources/se.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Classes/MainViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Classes/MainViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Classes/MainViewController.xib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MyAngularPhoneGapProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/MyApp-Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/xcuserdata/hollyschinsky.xcuserdatad/xcschemes/MyApp.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/xcuserdata/joshdolitsky.xcuserdatad/xcschemes/MyApp.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSArray+Comparisons.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSArray+Comparisons.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSData+Base64.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSData+Base64.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSDictionary+Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSDictionary+Extensions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSMutableArray+QueueAdditions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/NSMutableArray+QueueAdditions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/compatibility/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/Plugins/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/UIDevice+Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/Classes/UIDevice+Extensions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/accelerometerView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cordova/build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/cameraView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/checkmark_bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/compassView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/contactsView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cordova-2.7.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/deviceInfoView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cordova/emulate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/fienerView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/geolocationView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/hackerNewsView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/hamburger_bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/hamburger_dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/hamburger_light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/hollyschinsky.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/home.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/home2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/homeView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/indexNewest.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jx.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cordova/log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp/main.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/mobile-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/mobile-nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/notificationView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cordova/release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cordova/run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search_bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search_dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/search_light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/settings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/partials/settingsOverlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/settings_light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/spec.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/topcoat-mobile-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/topcoat-mobile-dark.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/topcoat-mobile-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/topcoat-mobile-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.xcodeproj/xcuserdata/hollyschinsky.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.xcodeproj/xcuserdata/joshdolitsky.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/xcuserdata/hollyschinsky.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyApp.xcodeproj/xcuserdata/joshdolitsky.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/partials/homeView.html" afterPath="$PROJECT_DIR$/www/partials/homeView.html" />
     </list>
     <ignored path="MyAngularPhoneGapProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -296,10 +25,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.90092164" vertical-offset="340" max-vertical-offset="833">
+            <state line="32" column="26" selection-start="1430" selection-end="1430" vertical-scroll-proportion="-7.8461537" vertical-offset="340" max-vertical-offset="833">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="70" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeView.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/partials/homeView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="60" selection-start="166" selection-end="166" vertical-scroll-proportion="0.08076009" vertical-offset="0" max-vertical-offset="833">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/spec.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="31.692308" vertical-offset="824" max-vertical-offset="1258">
               <folding />
             </state>
           </provider>
@@ -336,8 +92,8 @@
         <option value="$PROJECT_DIR$/www/js/app.js" />
         <option value="$PROJECT_DIR$/www/js/controllers.js" />
         <option value="$PROJECT_DIR$/www/js/services.js" />
-        <option value="$PROJECT_DIR$/www/partials/homeView.html" />
         <option value="$PROJECT_DIR$/www/partials/contactsView.html" />
+        <option value="$PROJECT_DIR$/www/partials/homeView.html" />
       </list>
     </option>
   </component>
@@ -379,6 +135,66 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="MyAngularPhoneGapProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NH_PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NH_PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NH_PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAngularPhoneGapProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NH_PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -442,7 +258,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1500732" sideWeight="0.79802954" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30307466" sideWeight="0.79802954" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -470,26 +286,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/partials/notificationView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1079" selection-end="1142" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/geolocationView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="62" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/accelerometerView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/compassView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="6" selection-start="2271" selection-end="2271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -515,18 +311,6 @@
         <state line="153" column="51" selection-start="4573" selection-end="4573" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="70" selection-start="793" selection-end="793" vertical-scroll-proportion="0.33420366" vertical-offset="144" max-vertical-offset="527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="14" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.4673629" vertical-offset="144" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/topcoat-mobile-light.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16337" />
@@ -537,19 +321,63 @@
         <state line="36" column="63" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.71428573" vertical-offset="357" max-vertical-offset="714" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/homeView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="18" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="833" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cordova/build">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="386" max-vertical-offset="969" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/hackerNewsView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286977">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/Classes/MainViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7" vertical-offset="322" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="31.692308" vertical-offset="824" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.90092164" vertical-offset="340" max-vertical-offset="833">
+        <state line="32" column="26" selection-start="1430" selection-end="1430" vertical-scroll-proportion="-7.8461537" vertical-offset="340" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="70" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/homeView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="60" selection-start="166" selection-end="166" vertical-scroll-proportion="0.08076009" vertical-offset="0" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
